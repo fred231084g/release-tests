@@ -1,8 +1,0 @@
-{
-  "nightly": [
-    {
-      "prowJob": "periodic-ci-openshift-openshift-tests-private-release-4.x-automated-release-aws-ipi-private-dummy-test-pgdys-f360"
-    }
-  ],
-  "stable": []
-}
